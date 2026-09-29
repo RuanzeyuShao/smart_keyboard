@@ -1,14 +1,5 @@
 # 围棋智能体（Go AI Agent）
 
-**人工智能原理与时间 课程结课项目说明文档**
-
-**Author：Ruan Zeyu**
-
-**University of Chinese Academy of Sciences**
-
-**ShangHai Astronomy Observatory**
-
-**date：2025/12/18**
 
 ## 一、项目简介
 
